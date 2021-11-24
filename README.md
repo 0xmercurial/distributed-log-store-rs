@@ -1,3 +1,3 @@
-# Building a Distributed Service (in Rust)
+# Distributed Log Store (in Rust)
 
-Iterative development of a distributed service from scratch in Rust.
+Iterative development of a distributed log store from scratch in Rust.
